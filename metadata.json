@@ -1,0 +1,6 @@
+{
+  "name": "OpenSea FCFS Sniper",
+  "description": "High-performance NFT minting tool reverse-engineered from OpenSea's internal GraphQL API for FCFS allowlist drops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
